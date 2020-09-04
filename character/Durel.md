@@ -20,15 +20,9 @@
     - Drall
 1. Select Character Career
     - Colonist
-        - 2 Knowledge (Lore)
-        - 1 Knowledge (Education)
-        - 2 Deception
-        - 1 Streetwise
-1. Select Specializations
+2. Select Specializations
     - Scholar
-        - 1 Knowledge (Outer Rim)
-        - 1 Perception
-1. Invest Experience Points
+3. Invest Experience Points
     
     - Characteristics
 
@@ -48,6 +42,8 @@
     | Leadership              | 0      |
     | Negotiation             | 0      |
     | Streetwise              | 1      |
+    | Knowledge (Outer Rim)   | 1      |
+    | Perception              | 1      |
 
     - Talents
       - Speaks Binary
@@ -55,13 +51,13 @@
       - Lvl. 1 Researcher
       - Brace
 
-1. Determine Derived Attributes
+4. Determine Derived Attributes
    - Thresholds:
      - Wound = 10
      - Strain = 14
-   -  Soak = 2
-1. Determine Starting Motivations
-1. Choose Gear and Description 
+   -  Soak: 3 *(2 Brawn + Heavy Clothing)*
+5. Determine Starting Motivations
+6. Choose Gear and Description 
     - Weapons
 
     | Name            | Skill          | Dam | Crit | Range | Encum | HP  | Price | Rarity | Special      |
@@ -81,4 +77,4 @@
     | Comlink (Handheld) | 25    | 0     | 0      | 2        |
     | Stimpack           | 25    | 0     | 1      | 4        |
     | Disguise Kit       | 100   | 2     | 4      | 1        |
-3. Group Chooses Starting Ship
+7. Group Chooses Starting Ship
