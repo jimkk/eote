@@ -47,9 +47,13 @@
 
     - Talents
       - Speaks Binary
+        - When directing NPC droids, may grant them *blue_square* per rank of Speaks Binary on checks.
       - Lvl. 1 Respected Scholar
+        - May downgrade difficulty of checks to interact with institutes of learning by one level per rank of Respected Scholar
       - Lvl. 1 Researcher
+        - Remove *black_square* per rank of Researcher from all Knowledge checks. Researching a subject takes half the time.
       - Brace
+        - Perform the Brace maneuver to remove *black_square* per rank of Brace from next Action. This may only remove *black_square* added by environmental circumstances.
 
 4. Determine Derived Attributes
    - Thresholds:
