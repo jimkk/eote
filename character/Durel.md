@@ -43,7 +43,7 @@
     | Negotiation             | 0      |
     | Streetwise              | 1      |
     | Knowledge (Outer Rim)   | 1      |
-    | Perception              | 1      |
+    | Perception              | 2      |
 
     - Talents
       - Speaks Binary
